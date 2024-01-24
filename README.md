@@ -3,7 +3,8 @@
 HTML 📄
 CSS 🎨
 JavaScript 🚀
-Description:
+
+## Description:
 The project consists of a visually appealing webpage with two main components – an image container and a trailer container. The image container serves as a teaser, inviting users to click on the play button. Once clicked, the trailer container comes to life, providing a full-screen view of the movie trailer along with playback controls.
 
 ## Key Features:
